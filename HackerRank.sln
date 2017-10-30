@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortWithIComparer", "SortWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperReduceString", "SuperReduceString\SuperReduceString.csproj", "{05F57420-A0D2-43C3-90D3-51126759EDE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{05F57420-A0D2-43C3-90D3-51126759EDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F57420-A0D2-43C3-90D3-51126759EDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F57420-A0D2-43C3-90D3-51126759EDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
