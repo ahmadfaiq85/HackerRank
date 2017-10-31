@@ -8,6 +8,8 @@ namespace _08Kangaroo
 {
     class Program
     {
+        //Sample Input
+        //0 3 4 2
         static string kangaroo(int x1, int v1, int x2, int v2)
         {
             int x1CurrentPosition = x1;
