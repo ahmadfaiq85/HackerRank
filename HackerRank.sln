@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{95AD6553-E388-43CE-A506-80AD003DA745}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01BubbleSort", "BubbleSort\01BubbleSort.csproj", "{95AD6553-E388-43CE-A506-80AD003DA745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalSum", "DiagonalSum\DiagonalSum.csproj", "{AEC0FBCF-0539-416C-B4BD-4DF964601F88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DiagonalSum", "DiagonalSum\02DiagonalSum.csproj", "{AEC0FBCF-0539-416C-B4BD-4DF964601F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass", "Hourglass\Hourglass.csproj", "{3F2198BB-D83C-4310-85F9-F47472E2186C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Hourglass", "Hourglass\03Hourglass.csproj", "{3F2198BB-D83C-4310-85F9-F47472E2186C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortWithIComparer", "SortWithIComparer\SortWithIComparer.csproj", "{75B4B34D-1A7C-46B6-9FD1-48AB01E2EEB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SortWithIComparer", "SortWithIComparer\04SortWithIComparer.csproj", "{75B4B34D-1A7C-46B6-9FD1-48AB01E2EEB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperReduceString", "SuperReduceString\SuperReduceString.csproj", "{05F57420-A0D2-43C3-90D3-51126759EDE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05SuperReduceString", "SuperReduceString\05SuperReduceString.csproj", "{05F57420-A0D2-43C3-90D3-51126759EDE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06GradingStudents", "GradingStudents\06GradingStudents.csproj", "{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
