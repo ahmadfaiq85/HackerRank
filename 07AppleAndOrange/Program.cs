@@ -14,8 +14,8 @@ namespace _07AppleAndOrange
             //7 11
             //5 15
             //3 2
-            //- 2 2 1
-            //5 - 6
+            //-2 2 1
+            //5 -6
 
             string[] tokens_s = Console.ReadLine().Split(' ');
             int s = Convert.ToInt32(tokens_s[0]);
