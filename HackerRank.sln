@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05SuperReduceString", "Supe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06GradingStudents", "GradingStudents\06GradingStudents.csproj", "{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07AppleAndOrange", "07AppleAndOrange\07AppleAndOrange.csproj", "{142C46AE-2B56-4119-9AD9-677357AACFF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BCA9EE0-3EC5-482C-81ED-3C19289B2C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142C46AE-2B56-4119-9AD9-677357AACFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142C46AE-2B56-4119-9AD9-677357AACFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142C46AE-2B56-4119-9AD9-677357AACFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142C46AE-2B56-4119-9AD9-677357AACFF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
