@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09BetweenTwoSets", "09Betwe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10BreakingTheRecords", "10BreakingTheRecords\10BreakingTheRecords.csproj", "{8F41D43E-6CEE-4F7F-8B9F-096E96F73C88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11StrongPassword", "11StrongPassword\11StrongPassword.csproj", "{F32DB679-3F67-4856-97C2-580C1B320A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8F41D43E-6CEE-4F7F-8B9F-096E96F73C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F41D43E-6CEE-4F7F-8B9F-096E96F73C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F41D43E-6CEE-4F7F-8B9F-096E96F73C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32DB679-3F67-4856-97C2-580C1B320A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32DB679-3F67-4856-97C2-580C1B320A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32DB679-3F67-4856-97C2-580C1B320A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32DB679-3F67-4856-97C2-580C1B320A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
