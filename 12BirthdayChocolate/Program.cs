@@ -8,6 +8,17 @@ namespace _12BirthdayChocolate
 {
     class Program
     {
+        static int solveLinq(int n, int[] s, int d, int m)
+        {
+            int total = 0;
+            for (int i = 0; i <= n - 1; i++)
+            {
+                if(s.Skip(i).Take(m).Sum() == d) 
+                    total++;
+            }
+            return total;
+        }
+
         static int solve(int n, int[] s, int d, int m)
         {
             int total = 0;
@@ -37,7 +48,7 @@ namespace _12BirthdayChocolate
             string[] tokens_d = Console.ReadLine().Split(' ');
             int d = Convert.ToInt32(tokens_d[0]);
             int m = Convert.ToInt32(tokens_d[1]);
-            int result = solve(n, s, d, m);
+            int result = solveLinq(n, s, d, m);
             Console.WriteLine(result);
         }
     }
