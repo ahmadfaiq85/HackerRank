@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11StrongPassword", "11Stron
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12BirthdayChocolate", "12BirthdayChocolate\12BirthdayChocolate.csproj", "{E05A8D5E-4E37-45DB-99DE-7470C8A1D263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13DivisibleSumPairs", "13DivisibleSumPairs\13DivisibleSumPairs.csproj", "{875C2B7F-417E-4A68-864B-295670448AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E05A8D5E-4E37-45DB-99DE-7470C8A1D263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05A8D5E-4E37-45DB-99DE-7470C8A1D263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05A8D5E-4E37-45DB-99DE-7470C8A1D263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875C2B7F-417E-4A68-864B-295670448AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875C2B7F-417E-4A68-864B-295670448AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875C2B7F-417E-4A68-864B-295670448AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875C2B7F-417E-4A68-864B-295670448AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
