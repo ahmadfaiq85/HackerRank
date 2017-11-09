@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13DivisibleSumPairs", "13Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MigratoryBirds", "14MigratoryBirds\14MigratoryBirds.csproj", "{19B3741D-D00E-479E-AAE7-274FA432F1FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15CamelCase", "15CamelCase\15CamelCase.csproj", "{B49BC9EE-A0B6-4404-B5D5-3CABC061DF31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{19B3741D-D00E-479E-AAE7-274FA432F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19B3741D-D00E-479E-AAE7-274FA432F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19B3741D-D00E-479E-AAE7-274FA432F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49BC9EE-A0B6-4404-B5D5-3CABC061DF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49BC9EE-A0B6-4404-B5D5-3CABC061DF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49BC9EE-A0B6-4404-B5D5-3CABC061DF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49BC9EE-A0B6-4404-B5D5-3CABC061DF31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
