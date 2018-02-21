@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18CaesarCipher", "18CaesarC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19MarsExploration", "19MarsExploration\19MarsExploration.csproj", "{9D8C6ACE-2457-49B9-9DD9-6EA82C34411B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20BonAppetit", "20BonAppetit\20BonAppetit.csproj", "{C8446635-EF7F-4B13-90FD-F7A12FF22E0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{9D8C6ACE-2457-49B9-9DD9-6EA82C34411B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D8C6ACE-2457-49B9-9DD9-6EA82C34411B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D8C6ACE-2457-49B9-9DD9-6EA82C34411B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8446635-EF7F-4B13-90FD-F7A12FF22E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8446635-EF7F-4B13-90FD-F7A12FF22E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8446635-EF7F-4B13-90FD-F7A12FF22E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8446635-EF7F-4B13-90FD-F7A12FF22E0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
