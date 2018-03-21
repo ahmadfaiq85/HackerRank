@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22LinkedListPrint", "22Link
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23LinkedListInsert", "23LinkedListInsert\23LinkedListInsert.csproj", "{AB7A782A-0AFC-4951-9462-6B869F888E90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24LinkedListInsertHead", "24LinkedListInsertHead\24LinkedListInsertHead.csproj", "{1E30F955-7548-47AE-A5BE-109FA803626A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{AB7A782A-0AFC-4951-9462-6B869F888E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB7A782A-0AFC-4951-9462-6B869F888E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB7A782A-0AFC-4951-9462-6B869F888E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E30F955-7548-47AE-A5BE-109FA803626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E30F955-7548-47AE-A5BE-109FA803626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E30F955-7548-47AE-A5BE-109FA803626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E30F955-7548-47AE-A5BE-109FA803626A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
