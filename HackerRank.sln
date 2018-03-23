@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23LinkedListInsert", "23Lin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24LinkedListInsertHead", "24LinkedListInsertHead\24LinkedListInsertHead.csproj", "{1E30F955-7548-47AE-A5BE-109FA803626A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25BinaryTree", "25BinaryTree\25BinaryTree.csproj", "{37019AC5-2CFA-43F5-9261-86AE9444C44E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{1E30F955-7548-47AE-A5BE-109FA803626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E30F955-7548-47AE-A5BE-109FA803626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E30F955-7548-47AE-A5BE-109FA803626A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37019AC5-2CFA-43F5-9261-86AE9444C44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37019AC5-2CFA-43F5-9261-86AE9444C44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37019AC5-2CFA-43F5-9261-86AE9444C44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37019AC5-2CFA-43F5-9261-86AE9444C44E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
