@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25BinaryTree", "25BinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26LinkedList", "26LinkedList\26LinkedList.csproj", "{05C2D348-932C-4DB3-8BB6-EC3CEA537C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27CheckPalindrome", "27CheckPalindrome\27CheckPalindrome.csproj", "{C28973E2-D459-4691-B02B-38F1C95654BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{05C2D348-932C-4DB3-8BB6-EC3CEA537C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C2D348-932C-4DB3-8BB6-EC3CEA537C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C2D348-932C-4DB3-8BB6-EC3CEA537C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28973E2-D459-4691-B02B-38F1C95654BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28973E2-D459-4691-B02B-38F1C95654BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28973E2-D459-4691-B02B-38F1C95654BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28973E2-D459-4691-B02B-38F1C95654BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
